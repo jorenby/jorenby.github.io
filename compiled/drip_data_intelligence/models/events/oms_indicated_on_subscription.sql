@@ -1,0 +1,1 @@
+SELECT subscription_id, occurred_at, oms_indicated FROM "dumps"."data_intelligence"."oms_indicated_subscription_events"

@@ -1,0 +1,1 @@
+SELECT * FROM "dumps"."finance"."sms_credit_ledgers"
